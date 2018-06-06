@@ -1,0 +1,2 @@
+# isolation-threadpool
+从Hystrix核心代码中提取出来的线程池隔离的代码,可以非常方便的在Web应用中实现线程池隔离
